@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # nhom-1
 ABCDVF
+1
 =======
 # tui thich tui sửa
 Phong was here 
